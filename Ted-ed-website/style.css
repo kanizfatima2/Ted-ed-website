@@ -1,0 +1,25 @@
+.my-bg {
+    filter: brightness(50%);
+}
+
+.fa-brands {
+    color: white;
+    font-size: 25px;
+}
+
+.bg-color-explore {
+    background-color: #f4fafd;
+}
+
+.fa-star,
+.fa-star-half-stroke {
+    color: rgb(250, 246, 6);
+}
+
+.section-gap {
+    margin-top: 10%;
+}
+
+.footer-color {
+    background-color: #161616;
+}
